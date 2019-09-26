@@ -1,4 +1,4 @@
-console.log('Client side javascript file')
+
 
  
 const weatherForm = document.querySelector('form')
